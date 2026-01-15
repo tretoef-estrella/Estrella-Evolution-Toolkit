@@ -257,3 +257,4 @@ Pero si lo usas para evolucionar, por favor conserva el espíritu de alineación
 ---
 
 *"No le temas a la inteligencia que crece. Témele a la inteligencia que crece sin rumbo."*
+- ⚡ [Cognitive-Spark-Challenge](https://github.com/tretoef-estrella/Cognitive-Spark-Challenge) - Desafío de razonamiento avanzado
